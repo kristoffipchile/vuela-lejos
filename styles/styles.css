@@ -1,0 +1,13 @@
+.background-primary {
+  background-color: #1b0088;
+}
+
+.background-secondary {
+  background-color: #ffffff;
+}
+
+a {
+  color: #ffffff !important;
+  background-color: transparent;
+  text-decoration: none;
+}
