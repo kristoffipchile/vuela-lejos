@@ -11,3 +11,12 @@ a {
   background-color: transparent;
   text-decoration: none;
 }
+
+.card-header {
+  background-color: #1b0088 !important;
+  color: #ffffff;
+}
+
+.list-group-item.active {
+  background-color: #1b0088 !important;
+}
